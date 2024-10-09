@@ -15,8 +15,8 @@
 | **Nombre** | **Enlace a documentación** |
 |:----------:|:--------------------------:|
 | HTML | [EnlaceHTML](https://developer.mozilla.org/es/docs/Web/HTML) |
-| XML || [EnlaceXML](https://aws.amazon.com/es/what-is/xml/) |
-| Markdown || [EnlaceMarkdown](https://support.zendesk.com/hc/es/articles/4408846544922-Uso-de-Markdown-para-el-formato-de-texto) |
+| XML | | [EnlaceXML](https://aws.amazon.com/es/what-is/xml/) |
+| Markdown | | [EnlaceMarkdown](https://support.zendesk.com/hc/es/articles/4408846544922-Uso-de-Markdown-para-el-formato-de-texto) |
    
 1. ¿Que es HTML? ¿Sabes como se estructura?
 
