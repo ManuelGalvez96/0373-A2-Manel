@@ -51,4 +51,4 @@ _Figura 1: Estructura de un código HTML_
    
 -Un navegador web es una aplicación que permite a los usuarios acceder y visualizar contenido en la red. Para ello se envia una url como solicitud desde el navegador, el DNS traduce la url en una dirección IP para encontrar el servidor donde se aloja la web, el navegador envia una solicitud HTTP al servidor para pedir los archivos, el servidor responde con dichos archivos, el navegador interpreta el archivo codificado con un lenguaje de marcas y finalmente se muestra al usuario.
 
-![Esquema]( "")
+![Esquema](https://github.com/ManuelGalvez96/0373-A2-Manel/blob/main/Esquema.png?raw=true "ImagenEsquema")
