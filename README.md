@@ -14,12 +14,11 @@
 
 | **Nombre** | **Enlace a documentación** |
 |:----------:|:--------------------------:|
-| HTML ||
-| XML |||
-| Markdown |||
-| RFT |||
+| HTML | [EnlaceHTML](https://developer.mozilla.org/es/docs/Web/HTML) |
+| XML || [EnlaceXML](https://aws.amazon.com/es/what-is/xml/) |
+| Markdown || [EnlaceMarkdown](https://support.zendesk.com/hc/es/articles/4408846544922-Uso-de-Markdown-para-el-formato-de-texto) |
    
-4. ¿Que es HTML? ¿Sabes como se estructura?
+1. ¿Que es HTML? ¿Sabes como se estructura?
 
 -Es un tipo de lenguaje de marcas utilizado para la creación de páginas web. Se estructura mediante etiquetas que definen elementos de la página, pudiendo crear encabezados, párrafos, enlaces, imagenes, etc. 
 
@@ -52,3 +51,5 @@ _Figura 1: Estructura de un código HTML_
 -Un navegador web es una aplicación que permite a los usuarios acceder y visualizar contenido en la red. Para ello se envia una url como solicitud desde el navegador, el DNS traduce la url en una dirección IP para encontrar el servidor donde se aloja la web, el navegador envia una solicitud HTTP al servidor para pedir los archivos, el servidor responde con dichos archivos, el navegador interpreta el archivo codificado con un lenguaje de marcas y finalmente se muestra al usuario.
 
 ![Esquema](https://github.com/ManuelGalvez96/0373-A2-Manel/blob/main/Esquema.png?raw=true "ImagenEsquema")
+
+_Figura 2: Esquema de peticiones HTML_
